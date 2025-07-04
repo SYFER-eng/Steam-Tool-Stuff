@@ -1,12 +1,10 @@
 [
   {
-    "name": "Modern Warfare II",
-    "image": "https://yourcdn.com/images/mw2.jpg",
-    "folder": "ModernWarfareII"
+    "name": "Beyond Two Souls",
+    "folder": "Beyond Two Souls"
   },
   {
     "name": "Red Dead Redemption 2",
-    "image": "https://yourcdn.com/images/rdr2.jpg",
     "folder": "RedDeadRedemption2"
   }
 ]

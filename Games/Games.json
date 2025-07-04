@@ -1,10 +1,12 @@
 [
   {
     "name": "Beyond Two Souls",
-    "folder": "Beyond Two Souls"
+    "folder": "Beyond Two Souls",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/960990/header.jpg"
   },
   {
     "name": "Red Dead Redemption 2",
-    "folder": "RedDeadRedemption2"
+    "folder": "RedDeadRedemption2",
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg"
   }
 ]
